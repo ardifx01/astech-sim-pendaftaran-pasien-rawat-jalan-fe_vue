@@ -2,6 +2,11 @@
 
 Aplikasi frontend untuk sistem pendaftaran pasien rawat jalan. Dibangun dengan Vue 3 (Vite), menggunakan CoreUI untuk UI, Vue Router untuk navigasi, serta Pinia untuk state management. Aplikasi ini dibuat dengan tujuan memenuhi mini project sebagai recruitement untuk PT Alfatih Solusindo (Astech).
 
+## 🚀 Link Deploy  
+Untuk mempermudah, aplikasi bisa diakses di:  
+🔗 [Aplikasi Pasien Rawat Jalan](https://vue.muammar.web.id/patients)
+
+
 ### Fitur Utama
 
 - Manajemen Pasien: daftar pasien, tambah pasien baru
